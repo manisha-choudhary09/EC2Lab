@@ -1,0 +1,110 @@
+---
+title: "Team"
+page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <h1>Our <span class="wheat-accent">Team</span></h1>
+    <p>A new research group building chemical-free, circular solutions for water and soil contamination.</p>
+  </div>
+</section>
+
+<div class="container page-wrap">
+  <h2 class="section-heading">Principal Investigator</h2>
+  <div class="row g-4 mb-5 align-items-start">
+    <div class="col-lg-3 text-center">
+      <img src="www/Professional photo.jpg" alt="Dr. Manisha Choudhary" class="person-photo-large" />
+    </div>
+    <div class="col-lg-9">
+      <h3 class="person-name">Dr. Manisha Choudhary</h3>
+      <div class="person-role">Assistant Professor</div>
+      <div class="person-affiliation">Carl and Melinda Helwig Department of Biological and Agricultural Engineering · Kansas State University</div>
+
+      <p class="body-copy">
+        Dr. Choudhary is an environmental engineer whose work asks a practical and urgent question: how do we build technologies that clean our environment without creating new problems? Her research integrates non-thermal plasma, graphene-based adsorbents, micro/nanobubbles, and circular regeneration strategies for PFAS and other emerging contaminants in water and soil systems.
+      </p>
+      <p class="body-copy">
+        Before launching the EC² Lab at K-State, she held postdoctoral appointments at the University of Maine and Temple University and served as an Assistant Professor in Civil Engineering at Dr. Radhakrishnan Institute of Technology in Jaipur, India. Her work bridges chemical engineering, environmental remediation, science communication, and stakeholder-engaged research.
+      </p>
+
+      <div class="row g-3 mt-2">
+        <div class="col-auto"><div class="credential-card"><strong>Ph.D.</strong><span>Chemical Engineering</span><small>IIT Kharagpur · 2019</small></div></div>
+        <div class="col-auto"><div class="credential-card"><strong>M.S.</strong><span>Chemical Engineering</span><small>IIT Kharagpur · 2014</small></div></div>
+        <div class="col-auto"><div class="credential-card"><strong>B.S. Honors</strong><span>Chemical Engineering</span><small>MBM University · 2011</small></div></div>
+      </div>
+
+      <div class="mt-3 d-flex flex-wrap gap-2">
+        <span class="tag">PFAS Remediation</span>
+        <span class="tag">Non-Thermal Plasma</span>
+        <span class="tag">Graphene Adsorbents</span>
+        <span class="tag tag-purple">TBE Fellow 2025</span>
+        <span class="tag tag-green">AAEES 40 Under 40 · 2024</span>
+      </div>
+
+      <div class="mt-3 contact-line">
+        <a href="mailto:manisha.choudhary@ksu.edu">manisha.choudhary@ksu.edu</a>
+        <span>·</span>
+        <a href="https://www.linkedin.com/in/manishachoudhary" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+  </div>
+
+  <hr class="section-divider" />
+
+  <h2 class="section-heading">Actively Recruiting</h2>
+  <div class="row g-4 mb-5">
+    <div class="col-md-4">
+      <div class="person-card">
+        <div class="person-photo-placeholder">PhD</div>
+        <h5>Open Position</h5>
+        <div class="open-role">Ph.D. Student · Plasma Systems</div>
+        <p>Non-thermal plasma and micro/nanobubble reactor design for PFAS and emerging contaminant treatment.</p>
+        <a href="join.qmd" class="tag tag-purple">Apply Now</a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="person-card">
+        <div class="person-photo-placeholder">PhD</div>
+        <h5>Open Position</h5>
+        <div class="open-role">Ph.D. Student · Adsorbent Materials</div>
+        <p>3D-printed graphene-based adsorbents for recoverable water and soil remediation.</p>
+        <a href="join.qmd" class="tag tag-purple">Apply Now</a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="person-card">
+        <div class="person-photo-placeholder">MS</div>
+        <h5>Open Position</h5>
+        <div class="open-role">M.S. Student · Circular Regeneration</div>
+        <p>Plasma and microwave strategies for regenerating PFAS-laden activated carbon and architected adsorbents.</p>
+        <a href="join.qmd" class="tag tag-purple">Apply Now</a>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="section-heading">Mentorship</h2>
+  <div class="highlight-box">
+    <p class="lead-copy">
+      As a first-generation graduate, Dr. Choudhary brings empathy, structure, and high expectations to mentoring. Her previous mentoring experience spans Ph.D., M.S., undergraduate, and high-school researchers across IIT Kharagpur, Temple University, and the University of Maine, including students who have gone on to doctoral study, scholarships, conference awards, and STEM competition success.
+    </p>
+  </div>
+
+  <h2 class="section-heading">Former Mentees</h2>
+  <div class="info-panel">
+    <p class="body-copy mb-3">Selected mentees from prior institutions include:</p>
+    <div class="row g-2 mentee-list">
+      <div class="col-md-4">Patatri Chakraborty · Ph.D.</div>
+      <div class="col-md-4">Sonia Moavenzadeh · Ph.D.</div>
+      <div class="col-md-4">Dilara Hatinoglu · Ph.D.</div>
+      <div class="col-md-4">Sathvik Peddamalla · Ph.D.</div>
+      <div class="col-md-4">Sanskar Shrestha · M.S.</div>
+      <div class="col-md-4">Madi McCarthy · Undergraduate</div>
+      <div class="col-md-4">Hayden Sawyer · Undergraduate</div>
+      <div class="col-md-4">Samuel Robinson · Undergraduate</div>
+      <div class="col-md-4">Aadarsh Lakshmanan · High School</div>
+    </div>
+  </div>
+</div>
+```

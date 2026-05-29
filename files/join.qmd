@@ -1,0 +1,70 @@
+---
+title: "Join Us"
+page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <h1>Join the <span class="wheat-accent">EC² Lab</span></h1>
+    <p>We are actively recruiting students and collaborators who want to tackle water and soil contamination with rigorous, practical science.</p>
+  </div>
+</section>
+
+<div class="container page-wrap">
+  <div class="row mb-5">
+    <div class="col-lg-8 mx-auto text-center">
+      <p class="section-intro">
+        The EC² Lab is designed to be collaborative, inclusive, and curiosity-driven. We value careful experiments, clear communication, community relevance, and technologies that work outside idealized laboratory conditions.
+      </p>
+    </div>
+  </div>
+
+  <h2 class="section-heading">Open Positions</h2>
+  <div class="row g-4 mb-5">
+    <div class="col-md-4"><div class="join-track"><div class="track-code">PhD</div><h4>Ph.D. Students</h4><p>Actively recruiting doctoral students starting Fall 2026 in non-thermal plasma systems, PFAS destruction, 3D-printed adsorbents, agricultural water reuse, and circular regeneration.</p><div class="note-box">Full funding may be available for qualified applicants through research assistantships and project funding.</div></div></div>
+    <div class="col-md-4"><div class="join-track green"><div class="track-code">MS</div><h4>M.S. Students</h4><p>Master's students can pursue thesis or project-based research in PFAS remediation, water quality analytics, adsorbent characterization, and reactor design.</p><div class="note-box green">Research assistantships may be available depending on project fit and funding.</div></div></div>
+    <div class="col-md-4"><div class="join-track purple"><div class="track-code">UG</div><h4>Undergraduate Researchers</h4><p>K-State undergraduates are welcome for independent study credit, paid research opportunities when available, or volunteer research experience.</p><div class="note-box purple">Students from engineering, agriculture, chemistry, environmental science, and related fields are encouraged.</div></div></div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-lg-6">
+      <div class="highlight-box highlight-box-purple">
+        <h4>What We Look For</h4>
+        <ul>
+          <li>Curiosity and persistence with difficult environmental problems.</li>
+          <li>Interest in water treatment, soil remediation, materials, plasma, or analytical chemistry.</li>
+          <li>Commitment to inclusive, collaborative research.</li>
+          <li>Strong written and oral communication skills.</li>
+          <li>Willingness to engage with agricultural and community stakeholders.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="highlight-box">
+        <h4>What We Offer</h4>
+        <ul>
+          <li>Hands-on training in advanced environmental treatment technologies.</li>
+          <li>Interdisciplinary collaborations across K-State and partner institutions.</li>
+          <li>Mentorship shaped by empathy, rigor, and professional development.</li>
+          <li>Opportunities to present, publish, and connect research to real communities.</li>
+          <li>A new lab culture that students will help build from the beginning.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="section-heading">How to Apply</h2>
+  <div class="info-panel apply-panel">
+    <p>Prospective students and collaborators are encouraged to reach out before submitting a formal application. Email Dr. Choudhary with the subject line <em>Prospective [PhD/MS/UG] Student - [Your Name]</em> and include:</p>
+    <ol>
+      <li>A brief statement of your research interests and how they align with EC² Lab.</li>
+      <li>Your CV or resume.</li>
+      <li>Unofficial transcripts, if applying as a student.</li>
+      <li>Contact information for 2-3 references, if available.</li>
+    </ol>
+    <a href="mailto:manisha.choudhary@ksu.edu?subject=Prospective%20Student%20-%20Your%20Name" class="btn-earth">Email Dr. Choudhary</a>
+    <p class="small-note">For formal graduate applications, visit the K-State Biological and Agricultural Engineering graduate program.</p>
+  </div>
+</div>
+```

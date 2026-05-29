@@ -1,0 +1,47 @@
+{
+  "index.qmd": {
+    "index.html": "7c956d57"
+  },
+  "files/research.qmd": {
+    "research.html": "37068c1b"
+  },
+  "files/team.qmd": {
+    "team.html": "4c1b63c1"
+  },
+  "files/publications.qmd": {
+    "publications.html": "22bbb213"
+  },
+  "files/teaching.qmd": {
+    "teaching.html": "dc21d123"
+  },
+  "files/news.qmd": {
+    "news.html": "8107eb53"
+  },
+  "files/join.qmd": {
+    "join.html": "d3ada90f"
+  },
+  "files/contact.qmd": {
+    "contact.html": "917568e6"
+  },
+  "teaching.qmd": {
+    "teaching.html": "8df107cc"
+  },
+  "team.qmd": {
+    "team.html": "0d44e804"
+  },
+  "contact.qmd": {
+    "contact.html": "166b1e0d"
+  },
+  "join.qmd": {
+    "join.html": "fdb9d2d0"
+  },
+  "news.qmd": {
+    "news.html": "e99e3483"
+  },
+  "publications.qmd": {
+    "publications.html": "0ef7b195"
+  },
+  "research.qmd": {
+    "research.html": "9997af3b"
+  }
+}

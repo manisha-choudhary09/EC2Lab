@@ -1,0 +1,78 @@
+---
+title: "Teaching"
+page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <h1>Teaching &amp; <span class="wheat-accent">Mentorship</span></h1>
+    <p>Empathetic, rigorous engineering education connected to real water and soil challenges.</p>
+  </div>
+</section>
+
+<div class="container page-wrap">
+  <div class="row mb-5">
+    <div class="col-lg-8 mx-auto">
+      <div class="highlight-box">
+        <h4>Teaching Philosophy</h4>
+        <p class="lead-copy">
+          As a first-generation graduate, Dr. Choudhary centers empathy, justice, and high expectations in teaching. Her courses combine core engineering fundamentals with active learning, flipped-classroom strategies, laboratory work, and visits to wastewater treatment plants. At the University of Maine, she received over 90% positive student feedback while teaching Wastewater Process Design in Spring 2024 and Spring 2025.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="section-heading">Teaching Experience</h2>
+  <div class="row g-4 mb-5">
+    <div class="col-md-6">
+      <div class="course-card">
+        <div class="course-level">University of Maine</div>
+        <h5>CIE 434: Wastewater Process Design</h5>
+        <p>Sole instructor for an undergraduate course with lab in Spring 2024 and Spring 2025.</p>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="course-card">
+        <div class="course-level">Guest Lectures</div>
+        <h5>Water Treatment and Environmental Nanotechnology</h5>
+        <p>Guest lectures in CIE 430 Water Treatment and CIE 598 Environmental Nanotechnology.</p>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="section-heading">Planned K-State Course Contributions</h2>
+  <div class="row g-4 mb-5">
+    <div class="col-md-6"><div class="course-card"><div class="course-level">Undergraduate</div><h5>ENVE 363: Environmental Engineering Fundamentals</h5><p>Core environmental engineering principles, treatment processes, water quality, and sustainability.</p></div></div>
+    <div class="col-md-6"><div class="course-card green"><div class="course-level">Undergraduate / Graduate</div><h5>CE 565: Water and Wastewater Engineering</h5><p>Engineering design and analysis of water supply and wastewater treatment systems.</p></div></div>
+    <div class="col-md-6"><div class="course-card purple"><div class="course-level">Graduate</div><h5>CE 762: Water Treatment Processes</h5><p>Advanced treatment technologies for drinking water and persistent contaminants.</p></div></div>
+    <div class="col-md-6"><div class="course-card brown"><div class="course-level">Graduate</div><h5>CE 663: Unit Operations and Processes in Environmental Engineering</h5><p>Mass transfer, reaction kinetics, and process design for environmental treatment systems.</p></div></div>
+  </div>
+
+  <h2 class="section-heading">Courses in Development</h2>
+  <div class="row g-4 mb-5">
+    <div class="col-md-4"><div class="research-thrust thrust-1 compact"><h5>Environmental Nanotechnology</h5><p>Applications and implications of nanomaterials in water treatment, contaminant removal, and sensing.</p></div></div>
+    <div class="col-md-4"><div class="research-thrust thrust-2 compact"><h5>Sustainable Water Reuse and Circular Water Systems</h5><p>Engineering design for reuse, resource recovery, and One Water approaches.</p></div></div>
+    <div class="col-md-4"><div class="research-thrust thrust-3 compact"><h5>Advanced Water Treatment Processes</h5><p>Non-thermal plasma, advanced oxidation, membranes, and emerging treatment approaches.</p></div></div>
+  </div>
+
+  <h2 class="section-heading">Outreach and Community Engagement</h2>
+  <div class="info-panel">
+    <div class="row g-4">
+      <div class="col-md-6">
+        <h5>Learn-by-Doing STEM Experiences</h5>
+        <p>The EC² Lab plans to develop summer programming for high school students from underrepresented communities, connecting hands-on laboratory experiences to environmental engineering careers.</p>
+      </div>
+      <div class="col-md-6">
+        <h5>Selected Outreach</h5>
+        <ul>
+          <li>Mentored Greely High School students to a Samsung Solve for Tomorrow state championship for PFAS filtration innovation.</li>
+          <li>Led Sustainable Engineering Leaders of the Future summer camp sessions for high school girls.</li>
+          <li>Served as a Girl Scout water quality workshop instructor.</li>
+          <li>Technical volunteer with Water For People.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+```

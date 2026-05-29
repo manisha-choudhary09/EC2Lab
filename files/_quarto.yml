@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!files/*.qmd"
+  resources:
+    - www/
+
+website:
+  title: "EC² Lab"
+  description: "Environment, Climate, and Circularity Lab at Kansas State University"
+
+  navbar:
+    logo: www/ec2_icon.svg
+    logo-alt: "EC² Lab"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "Join Us"
+        href: join.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: envelope
+        href: mailto:manisha.choudhary@ksu.edu
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/manishachoudhary
+        aria-label: LinkedIn
+
+  page-footer:
+    left: |
+      © 2026 EC² Lab · Kansas State University  
+      Department of Biological and Agricultural Engineering
+    center: |
+      [Carl and Melinda Helwig BAE Department](https://www.bae.ksu.edu)
+    right: |
+      [Contact Us](contact.qmd)
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    grid:
+      sidebar-width: 0px
+      body-width: 1200px
+      margin-width: 0px

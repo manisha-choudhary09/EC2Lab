@@ -1,0 +1,45 @@
+---
+title: "News"
+page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <h1>News &amp; <span class="wheat-accent">Events</span></h1>
+    <p>Updates from the EC² Lab: publications, awards, grants, talks, and recruiting.</p>
+  </div>
+</section>
+
+<div class="container page-wrap">
+  <div class="row g-5">
+    <div class="col-lg-7">
+      <h2 class="section-heading">Latest News</h2>
+
+      <div class="news-item"><div class="news-date-block"><div class="news-day">Mar</div><div class="news-month">2026</div></div><div><span class="tag">Publication</span><h5>New paper accepted in <em>Journal of Chemical Education</em></h5><p>"Interdisciplinary Pedagogy for Environmental Chemistry Communication Through Art-Engineering Collaboration" was accepted in March 2026.</p></div></div>
+      <div class="news-item"><div class="news-date-block"><div class="news-day">Mar</div><div class="news-month">2026</div></div><div><span class="tag tag-purple">Grant</span><h5>USDA ARS award for 3D-printed PFAS adsorbents</h5><p>Dr. Choudhary is PI on a $66,000 accepted project, "Graphene-Based Microwave-Regenerable 3D-Printed Adsorbents for PFAS Removal from Agricultural Waters."</p></div></div>
+      <div class="news-item"><div class="news-date-block"><div class="news-day">Oct</div><div class="news-month">2025</div></div><div><span class="tag">Invited Talk</span><h5>Invited research talk at Towson University</h5><p>Dr. Choudhary presented "Bridging Disciplines for a Cleaner and Sustainable Future: A Journey from Chemical Engineering to Environmental Solutions."</p></div></div>
+      <div class="news-item"><div class="news-date-block"><div class="news-day">Jul</div><div class="news-month">2025</div></div><div><span class="tag tag-green">Award</span><h5>Trailblazers in Engineering Fellow at Purdue University</h5><p>Dr. Choudhary was selected as a 2025 TBE Fellow by Purdue University's College of Engineering.</p></div></div>
+      <div class="news-item"><div class="news-date-block"><div class="news-day">Jun</div><div class="news-month">2025</div></div><div><span class="tag">Conference</span><h5>Invited oral presentation at Gordon Research Seminar</h5><p>She presented work on oxidation of graphene, π-electron conjugation, and microwave reactivity in environmental nanotechnology.</p></div></div>
+      <div class="news-item"><div class="news-date-block"><div class="news-day">Dec</div><div class="news-month">2024</div></div><div><span class="tag">Award</span><h5>Best Poster Award at NSF Nanoscale Science and Engineering Grantees Conference</h5><p>A poster co-authored with Dr. Choudhary on microwave heating of superparamagnetic iron-oxide nanoparticles received Best Poster recognition.</p></div></div>
+      <div class="news-item"><div class="news-date-block"><div class="news-day">2024</div><div class="news-month">Award</div></div><div><span class="tag tag-green">Recognition</span><h5>AAEES 40 Under 40 Rising Star</h5><p>Dr. Choudhary was honored in the American Academy of Environmental Engineers and Scientists Class of 2024.</p></div></div>
+    </div>
+
+    <div class="col-lg-5">
+      <h2 class="section-heading">Upcoming</h2>
+      <div class="calendar-wrapper">
+        <div class="calendar-placeholder">
+          <h5>Lab Calendar Coming Soon</h5>
+          <p>The EC² Lab calendar will include seminar dates, recruitment events, student deadlines, and public-facing outreach activities.</p>
+        </div>
+      </div>
+
+      <div class="info-panel mt-4">
+        <h5>Recruiting</h5>
+        <p>Graduate and undergraduate research opportunities are planned for students interested in PFAS remediation, plasma treatment, water reuse, and circular adsorbent regeneration.</p>
+        <a href="join.qmd" class="btn-earth">See Openings</a>
+      </div>
+    </div>
+  </div>
+</div>
+```

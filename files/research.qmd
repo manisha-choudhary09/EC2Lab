@@ -1,0 +1,122 @@
+---
+title: "Research"
+page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <h1>Research <span class="wheat-accent">Thrusts</span></h1>
+    <p>Chemical-free and circular technologies for emerging contaminant mitigation in the Anthropocene.</p>
+  </div>
+</section>
+
+<div class="container page-wrap">
+  <div class="row mb-5">
+    <div class="col-lg-8 mx-auto">
+      <div class="highlight-box">
+        <p class="lead-copy">
+          Emerging contaminants, including PFAS, microplastics, pharmaceuticals, personal care products, and pesticides, threaten drinking water, wastewater, and contaminated soils. The EC² Lab advances physical-chemical treatment technologies that operate without chemical additives, reduce harmful byproducts, and work in complex environmental matrices where conventional approaches often fail.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div id="thrust-1" class="research-row">
+    <div class="research-index">
+      <div class="research-code">NTP</div>
+      <div class="research-number">01</div>
+    </div>
+    <div class="research-content">
+      <span class="tag">Non-Thermal Plasma</span>
+      <span class="tag">Micro/Nanobubbles</span>
+      <span class="tag">Wastewater Reclamation</span>
+      <span class="tag">One Water</span>
+      <h2>Non-Thermal Plasma-Micro/Nanobubble Reactors for Wastewater Reclamation</h2>
+      <p>
+        Non-thermal plasma can generate oxidative and reductive reactive species capable of degrading persistent contaminants. A major barrier is transferring those reactive species efficiently from the gas phase into water.
+      </p>
+      <p>
+        The proposed EC² Lab approach integrates micro- and nanobubble generators with plasma systems to increase interfacial area, improve mass transfer, and tune chemistry through gas composition, bubble size, and electrical conditions. The lab will use optical emission spectroscopy, high-speed imaging, UPLC/MS/MS, toxicity assays, and qPCR to evaluate treatment performance for PFAS, PPCPs, pesticides, and antimicrobial-resistance concerns.
+      </p>
+      <div class="application-box">
+        <strong>Applications:</strong> potable reuse, agricultural irrigation reuse, rural drinking water treatment, and municipal wastewater reclamation.
+      </div>
+    </div>
+  </div>
+
+  <div id="thrust-2" class="research-row">
+    <div class="research-index">
+      <div class="research-code">3D</div>
+      <div class="research-number">02</div>
+    </div>
+    <div class="research-content">
+      <span class="tag tag-green">3D Printing</span>
+      <span class="tag tag-green">Graphene Adsorbents</span>
+      <span class="tag tag-green">Recoverable Materials</span>
+      <span class="tag tag-green">Soil Remediation</span>
+      <h2>3D-Printed Recoverable Architected Adsorbents</h2>
+      <p>
+        Nanoadsorbents can offer high contaminant removal capacity, but their small size makes recovery after deployment difficult. Granular activated carbon is practical but can lose performance in the presence of natural organic matter and co-contaminants.
+      </p>
+      <p>
+        This thrust develops 3D-structured porous graphene-based adsorbents using direct ink writing additive manufacturing. Graphene oxide, cellulose nanocrystals, and amine-terminated polylactide will be formulated into printable inks that create recoverable structures for water treatment and in situ soil remediation.
+      </p>
+      <div class="application-box green">
+        <strong>Applications:</strong> PFAS-contaminated farm soils, agricultural waters, drinking water filtration, and industrial wastewater treatment.
+      </div>
+    </div>
+  </div>
+
+  <div id="thrust-3" class="research-row">
+    <div class="research-index">
+      <div class="research-code">RE</div>
+      <div class="research-number">03</div>
+    </div>
+    <div class="research-content">
+      <span class="tag tag-purple">Circular Economy</span>
+      <span class="tag tag-purple">GAC Regeneration</span>
+      <span class="tag tag-purple">Microwave Processing</span>
+      <span class="tag tag-purple">PFAS Destruction</span>
+      <h2>Circular Regeneration of PFAS-Laden Adsorbents</h2>
+      <p>
+        Solid-phase PFAS treatment remains a major gap. Thermal regeneration of spent adsorbents is centralized, energy-intensive, can damage adsorbent structure, and may create harmful fluorinated emissions.
+      </p>
+      <p>
+        Building on Dr. Choudhary's work with graphene materials, PFAS-laden granular activated carbon, and plasma treatment, this thrust develops plasma- and microwave-based regeneration methods that act directly on contaminated solid media. The lab will track PFAS release and breakdown, inorganic fluorine, volatile byproducts, pore structure, surface chemistry, and adsorption capacity across repeated cycles.
+      </p>
+      <div class="application-box purple">
+        <strong>Applications:</strong> small water systems, agricultural water treatment, utility-scale adsorbent management, and on-farm PFAS mitigation.
+      </div>
+    </div>
+  </div>
+
+  <div class="funding-section">
+    <h2 class="section-heading">Future Funding Targets</h2>
+    <div class="row g-4">
+      <div class="col-md-6">
+        <div class="info-panel">
+          <h5>Federal Agencies</h5>
+          <ul>
+            <li>NSF CAREER, CBET, CHE, and EPSCoR programs</li>
+            <li>USDA NIFA AFRI and USDA ARS</li>
+            <li>DoD SERDP and ESTCP</li>
+            <li>USGS Water Resources Research Act</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="info-panel">
+          <h5>State, Foundation, and Partner Programs</h5>
+          <ul>
+            <li>Kansas Water Institute and Kansas Water Resources Institute</li>
+            <li>Kansas Department of Health and Environment</li>
+            <li>Kansas Department of Agriculture conservation programs</li>
+            <li>Water Research Foundation and Bill &amp; Melinda Gates Foundation</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```

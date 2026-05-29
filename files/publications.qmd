@@ -1,0 +1,54 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+```{=html}
+<section class="page-hero">
+  <div class="container">
+    <h1>Publications &amp; <span class="wheat-accent">Presentations</span></h1>
+    <p>Research on plasma treatment, PFAS remediation, graphene materials, water quality, and environmental education.</p>
+  </div>
+</section>
+
+<div class="container page-wrap">
+  <div class="d-flex flex-wrap gap-3 mb-4">
+    <a href="www/Manisha Choudhary-CV.pdf" class="btn-earth">Download CV</a>
+    <a href="mailto:manisha.choudhary@ksu.edu" class="btn-outline-dark">Request Publication Links</a>
+  </div>
+
+  <h2 class="section-heading">Journal Articles</h2>
+
+  <div class="pub-item"><span class="pub-year-badge">2026</span><span class="tag">Accepted</span><div class="pub-title mt-2">Interdisciplinary Pedagogy for Environmental Chemistry Communication Through Art-Engineering Collaboration</div><div class="pub-authors">Choudhary, M., Martin, A., Alulema-Pullupax, P., Hatinoglu, D.M., Mensah, K., Moavenzadeh, S.G., Susan S., Apul, O.G.</div><div class="pub-journal">Journal of Chemical Education · accepted March 2026</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2026</span><span class="tag tag-purple">Revision Submitted</span><div class="pub-title mt-2">Application of a multiple pin-plate non-thermal plasma reactor for degradation of alachlor and chlorpyrifos</div><div class="pub-authors">Choudhary, M., Sarkar, P., Sharma, S.K., Zhao, X., Apul, O.G., Neogi, S.</div><div class="pub-journal">Environmental Science &amp; Technology · revision submitted January 2026</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2025</span><span class="tag">Accepted</span><div class="pub-title mt-2">Molecular connectivity indices and soil properties to predict sorption of per- and polyfluoroalkyl substances</div><div class="pub-authors">Alulema-Pullupax, P., Hatinoglu, D.M., Moavenzadeh, S.G., Mensah, K., Choudhary, M., Ortiz, S., Apul, O.G.</div><div class="pub-journal">Environmental Science: Processes &amp; Impacts · accepted December 2025</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2025</span><div class="pub-title mt-2">A critical review of per- and polyfluoroalkyl substances adsorption by soil</div><div class="pub-authors">Moavenzadeh, S.G., Choudhary, M., Hannan, M., Hettiarachchi, G.M., Apul, O.G.</div><div class="pub-journal">Journal of Hazardous Materials: Organics, 1(1), 100001</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2025</span><div class="pub-title mt-2">Microwave heating of superparamagnetic iron-oxide nanoparticles toward environmental hyperthermia-based applications</div><div class="pub-authors">Hatinoglu, D., Lee, S.S.S., Choudhary, M., Lee, J., Attanayake, S.B., Hwang, K.Y., Detellem, D., Phan, M.H., Fortner, J., Apul, O.G.</div><div class="pub-journal">ACS Applied Materials &amp; Interfaces, 17(35), 49775-49783</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2025</span><div class="pub-title mt-2">Aftermath of a major firefighting foam spill in Brunswick, Maine: Spatiotemporal dynamics of PFAS in the downstream aquatic environment</div><div class="pub-authors">Hannan, M., Evrendilek, F., Leclair, D., Choudhary, M., Mensah, K., Aeppli, C., Venkatesan, A., Apul, O.G.</div><div class="pub-journal">Journal of Hazardous Materials Letters, 6, 100150</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2025</span><div class="pub-title mt-2">Application of anthropogenic chemical and biological markers to characterize receiving urban waterways for untreated sanitary waste</div><div class="pub-authors">Stewart, S., Yu, H., Andaluri, G., Choudhary, M., Bordoloi, A., Suri, R.P.S.</div><div class="pub-journal">Journal of Water Process Engineering, 71, 107207</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2024</span><span class="tag tag-green">Cover Article</span><div class="pub-title mt-2">Disruption of conjugated π-electron system of graphene oxides diminishes their microwave reactivity</div><div class="pub-authors">Choudhary, M., Wang, W., Mensah, K., Mukhopadhyay, S.M., Apul, O.G.</div><div class="pub-journal">Langmuir, 40(51), 26824-26834</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2024</span><div class="pub-title mt-2">Variable-area sensor permits near-continuous multi-point measurements of aqueous biological and chemical analytes</div><div class="pub-authors">White, L.R., Miner, J.N., McKinney, L.D., Pierce, L., Folley, A., Larrabee A., Scrapchansky L., Fessler, W., Choudhary, M., Pouria, R., Zare, S., Perry E., Edalatpour, S., Apul, O.G., Howell, C.</div><div class="pub-journal">Industrial &amp; Engineering Chemistry Research, 64(1), 382-391</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2024</span><div class="pub-title mt-2">Interplay of adsorptive properties and dielectric reactivity of graphenes upon edge functionalization</div><div class="pub-authors">Apul, O.G., Choudhary, M.</div><div class="pub-journal">Chemical Engineering Science, 296, 120274</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2021</span><div class="pub-title mt-2">Quantification of reactive species generated in pulsed electrical discharge plasma reactor and its application for 17α-ethinylestradiol degradation</div><div class="pub-authors">Choudhary, M., Sarkar, P., Sharma, S.K., Kajla, A., Neogi, S.</div><div class="pub-journal">Separation and Purification Technology, 275, 119173</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2020</span><div class="pub-title mt-2">Activated biochar derived from Opuntia ficus-indica for the efficient adsorption of malachite green dye, Cu+2 and Ni+2 from water</div><div class="pub-authors">Choudhary, M., Kumar, R., Neogi, S.</div><div class="pub-journal">Journal of Hazardous Materials, 392, 122441</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2019</span><div class="pub-title mt-2">Evaluation of the potential application of cactus (Opuntia ficus-indica) as a bio-coagulant for pre-treatment of oil sands process-affected water</div><div class="pub-authors">Choudhary, M., Ray, M.B., Neogi, S.</div><div class="pub-journal">Separation and Purification Technology, 209, 714-724</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2017</span><div class="pub-title mt-2">A natural coagulant protein from Moringa Oleifera: Isolation, characterization, and potential use for water treatment</div><div class="pub-authors">Choudhary, M., Neogi, S.</div><div class="pub-journal">Materials Research Express, 4, 105502</div></div>
+  <div class="pub-item"><span class="pub-year-badge">2015</span><div class="pub-title mt-2">Studies on the treatment of rice mill effluent by electrocoagulation</div><div class="pub-authors">Choudhary, M., Majumder, S., Neogi, S.</div><div class="pub-journal">Separation Science and Technology, 50, 505-511</div></div>
+
+  <h2 class="section-heading mt-5">Under Preparation</h2>
+  <div class="pub-item"><span class="pub-year-badge">In prep</span><div class="pub-title mt-2">Application of a multiple pin-plate non-thermal plasma reactor for degradation of commercial reactive dyes</div><div class="pub-authors">Choudhary, M., Neogi, S.</div><div class="pub-journal">Ready for submission, according to CV</div></div>
+
+  <h2 class="section-heading mt-5">Patent Disclosure</h2>
+  <div class="pub-item purple-border"><span class="pub-year-badge purple-bg">2024</span><div class="pub-title mt-2">Binder-free pelletization of graphene nanosheets towards PFAS removal from drinking water sources</div><div class="pub-authors">Apul, O.G., Choudhary, M., Mensah, K.</div><div class="pub-journal">Disclosed October 7, 2024</div></div>
+
+  <h2 class="section-heading mt-5">Invited Talks and Selected Presentations</h2>
+  <div class="info-panel presentation-list">
+    <div><strong>Towson University</strong> · Bridging Disciplines for a Cleaner and Sustainable Future · invited talk, October 2025</div>
+    <div><strong>Geological Society of America Connects</strong> · graphene oxidation, microwave reactivity, and adsorption capacity · invited talk, October 2025</div>
+    <div><strong>Gordon Research Seminar, Environmental Nanotechnology</strong> · graphene oxidation and microwave reactivity · invited oral presentation, May-June 2025</div>
+    <div><strong>Union College</strong> · water treatment and science communication in the Anthropocene · invited talk, February 2025</div>
+    <div><strong>NSF Nanoscale Science and Engineering Grantees Conference</strong> · poster co-authored with Dr. Choudhary received Best Poster Award, December 2024</div>
+    <div><strong>AEESP Research and Education Conference</strong> · graphene-based water treatment presentation, June 2023</div>
+  </div>
+</div>
+```
