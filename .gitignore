@@ -5,3 +5,6 @@ www/Research Talk at K-State-Manisha-For VQ.pptx
 **/*.quarto_ipynb
 .Rproj.user
 .positai
+docs/www/Research Talk at K-State-Manisha-For VQ.pptx
+www/Research Talk at K-State-Manisha-For VQ.pptx
+_site/www/*.pptx
